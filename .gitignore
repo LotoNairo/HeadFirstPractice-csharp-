@@ -1,0 +1,23 @@
+#Common
+.vs/
+bin/
+obj/
+*.sln
+*.user
+*.csproj
+
+
+#For MyFirstConsoleApp(No)
+#MyFirstConsoleApp(No).sln
+#MyFirstConsoleApp(No).csproj
+
+
+
+
+#For MyFirstConsoleApp(No)
+#MatchGame.sln
+AssemblyInfo.cs
+App.xaml.cs
+App.xaml
+#MatchGame.csproj.user
+#MatchGame.csproj
